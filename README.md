@@ -6,12 +6,6 @@
 
 ---
 
-### 📂 Dataset
-
-The model is trained on the [German Traffic Sign Recognition Benchmark (GTSRB)](https://benchmark.ini.rub.de/?section=gtsrb&subsection=dataset), a widely used dataset in traffic sign recognition research.
-
----
-
 ### ✨ Features
 
 * ✅ **Deep Learning-Powered** – Built with Convolutional Neural Networks (CNNs) for high performance
