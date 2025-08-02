@@ -1,4 +1,5 @@
 🛑 Smart Traffic Sign Recognition System
+--
 🔍 Overview
 Smart Traffic Sign Recognition System is an AI-powered application that classifies traffic signs from uploaded images using a deep learning model. Built using Streamlit and TensorFlow, this system is ideal for autonomous vehicle systems, road safety monitoring, and smart traffic solutions.
 
